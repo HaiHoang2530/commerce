@@ -18,8 +18,6 @@ const styles = StyleSheet.create ({
     height: 50,
     backgroundColor: Colors.Green,
     justifyContent: 'center',
-    marginLeft: 16,
-    marginRight: 16,
     borderRadius: 5,
   },
   textbutton: {

@@ -1,10 +1,9 @@
 import React from 'react';
 import {View} from 'react-native';
-import {Welcome} from '../src/screens';
+import Nav from './navigations';
+import {ExpolreOne} from './screens';
 export default function Index () {
   return (
-    <View>
-      <Welcome/>
-    </View>
+  <Nav/>
   );
 }
